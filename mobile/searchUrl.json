@@ -72,5 +72,13 @@
       "click": true,
       "wePlus": {}
     }
+    {
+      "id": 1,
+      "name": "2A",
+      "url": "https://http://zy.zcocc.com/api.php/provide/vod/at/xml",
+      "cate": "动作片,7&&喜剧片,8&&爱情片,9&&科幻片,10&&恐怖片,28&&国产剧,37&&国产动漫",
+      "click": true,
+      "wePlus": {}
+    }
   ]
 }
